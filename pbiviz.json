@@ -1,13 +1,11 @@
 {
   "visual": {
-    "name": "matrixKPI",
+    "name": "MatrixKPI",
     "displayName": "MatrixKPI 1.0.0",
     "guid": "matrixKPID96F6BE49AAC49A2B617551A4951CE90",
     "visualClassName": "MatrixKPI",
     "version": "1.0.0",
-    "description": "MatrixKPI",
-    "supportUrl": "",
-    "gitHubUrl": ""
+    "description": "MatrixKPI"
   },
   "apiVersion": "5.1.0",
   "author": { "name": "rykn0wxx", "email": "r4ur1c1@gmail.com" },
