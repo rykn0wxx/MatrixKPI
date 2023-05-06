@@ -1,0 +1,39 @@
+{
+  "name": "matrixkpi",
+  "version": "1.0.0",
+  "description": "default_template_value",
+  "license": "MIT",
+  "scripts": {
+    "pbiviz": "pbiviz",
+    "start": "pbiviz start",
+    "package": "pbiviz package",
+    "lint": "tslint -c tslint.json -p tsconfig.json"
+  },
+  "dependencies": {
+    "@types/d3": "5.7.2",
+    "d3": "^7.8.4",
+    "powerbi-visuals-api": "5.1.0",
+    "powerbi-visuals-utils-chartutils": "^6.0.1",
+    "powerbi-visuals-utils-colorutils": "^6.0.1",
+    "powerbi-visuals-utils-dataviewutils": "^6.0.1",
+    "powerbi-visuals-utils-formattingmodel": "5.0.0",
+    "powerbi-visuals-utils-formattingutils": "^6.0.1",
+    "powerbi-visuals-utils-interactivityutils": "^6.0.2",
+    "powerbi-visuals-utils-svgutils": "^6.0.1",
+    "powerbi-visuals-utils-typeutils": "^6.0.1"
+  },
+  "devDependencies": {
+    "core-js": "^3.30.2",
+    "css-loader": "^6.7.3",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0",
+    "mini-css-extract-plugin": "^2.7.5",
+    "powerbi-visuals-powerkpi": "https://github.com/microsoft/PowerBI-visuals-PowerKPI",
+    "powerbi-visuals-tools": "^4.3.1",
+    "style-loader": "^3.3.2",
+    "ts-loader": "6.1.0",
+    "tslint": "^5.18.0",
+    "tslint-microsoft-contrib": "^6.2.0",
+    "typescript": "3.6.3"
+  }
+}
